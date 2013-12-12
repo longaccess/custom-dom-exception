@@ -1,0 +1,23 @@
+{
+  "name": "custom-dom-exception",
+  "version": "0.0.1",
+  "homepage": "https://github.com/longaccess/custom-dom-exception",
+  "authors": [
+    "Konstantinos Koukopoulos <kk@longaccess.com>"
+  ],
+  "description": "A data type that looks and acts like DOMException, but you can choose the code.",
+  "main": "src/custom-dom-exception.js",
+  "keywords": [
+    "dom",
+    "exception",
+    "custom"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
